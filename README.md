@@ -1,0 +1,1 @@
+>>>ДЗ по теме Структурные шаблоны. Proxy, Decorator, Adapter
